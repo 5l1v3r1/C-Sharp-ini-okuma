@@ -1,0 +1,9 @@
+C:\Users\DangerOusMaN32\Desktop\iniuygulama\iniuygulama\bin\Debug\iniuygulama.exe.config
+C:\Users\DangerOusMaN32\Desktop\iniuygulama\iniuygulama\bin\Debug\iniuygulama.exe
+C:\Users\DangerOusMaN32\Desktop\iniuygulama\iniuygulama\bin\Debug\iniuygulama.pdb
+C:\Users\DangerOusMaN32\Desktop\iniuygulama\iniuygulama\obj\Debug\iniuygulama.csprojResolveAssemblyReference.cache
+C:\Users\DangerOusMaN32\Desktop\iniuygulama\iniuygulama\obj\Debug\iniuygulama.Form1.resources
+C:\Users\DangerOusMaN32\Desktop\iniuygulama\iniuygulama\obj\Debug\iniuygulama.Properties.Resources.resources
+C:\Users\DangerOusMaN32\Desktop\iniuygulama\iniuygulama\obj\Debug\iniuygulama.csproj.GenerateResource.Cache
+C:\Users\DangerOusMaN32\Desktop\iniuygulama\iniuygulama\obj\Debug\iniuygulama.exe
+C:\Users\DangerOusMaN32\Desktop\iniuygulama\iniuygulama\obj\Debug\iniuygulama.pdb
